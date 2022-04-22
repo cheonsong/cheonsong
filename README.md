@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, Hello~ 
 
-Android Developer
+iOS Developer
 
 | Stats | Top Langs |
 | ------|:---------:|
