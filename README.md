@@ -1,6 +1,4 @@
-### Hi, Hello~ 
-
-iOS Developer
+### Hi, Hello 🤘 I'm cheonsong, iOS Developer
 
 | Stats | Top Langs |
 | ------|:---------:|
