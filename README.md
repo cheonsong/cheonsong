@@ -30,9 +30,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheonsong&hide_title=true&show_icons=true&include_all_commits=true&icon_color=009FD9)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<h3 align="center">📃 Most Used Languages 📃</h3>
-<div align="center">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheonsong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
