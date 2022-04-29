@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=130&section=header&text=Hi 🤘 I'm cheonsong, iOS Developer&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=009FD9&height=300&section=header&text=Hi 🤘 I'm cheonsong&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Junior iOS Developer!&descAlignY=51&descAlign=62" />
 </div>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
