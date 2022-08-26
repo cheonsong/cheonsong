@@ -24,9 +24,3 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/></a>&nbsp
 </p>
 
-<h3 align="center">⭐ My Github Stats ⭐</h3>
-<div align="center">
-    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheonsong&hide_title=true&show_icons=true&include_all_commits=true&icon_color=009FD9)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
