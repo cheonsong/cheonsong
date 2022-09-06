@@ -1,24 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=009FD9&height=300&section=header&text=Hi%20🤘%20I'm%20cheonsong&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Jr.%20iOS%20Developer!&descAlignY=51&descAlign=62)
-
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<div align="center">
-    <a href="https://www.instagram.com/pangssong/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
-    <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=qkrcjsthd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a> 
-    <a href="https://cheonsong.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-0A0A0A?style=for-the-badge&logo=Blogger&logoColor=white"/></a> 
-</div>
-
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white"/></a>&nbsp
+<p align = "center">
+  <img height = "175em" src="https://github-readme-stats.vercel.app/api?username=cheonsong&count_private=true&show_icons=true&bg_color=30,9CECFB,0052D4&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&title="Cheonsong's GitHub stats"" align = "center"/>
 </p>
 
-<h3 align="center">⚙ Available Tools ⚙</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Zeplin-FF6900?style=for-the-badge"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=Redmine&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/></a>&nbsp
-</p>
+<h2 align="center">
+    <a href="https://cheonsong.notion.site/ac5f8ef5a64e4399b8c7d8a7f5a08391"> About Me! <a>
+</h2>
 
